@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT4053
+D Triple analog Multiplexer 2 to 1 line
+K CMOS MUX MUX2
+$ENDCMP
+#
+#End Doc Library
