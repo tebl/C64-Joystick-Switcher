@@ -621,7 +621,7 @@ F 3 "" H 10825 5875 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 7000 7125 0    60   ~ 0
-Did the Mega Switcher for the Commodore 64 and that works, so the next step was a\nnormal joystick switcher for those games where my Zipstick feels most natural. Added\nan autofire-function in case one is needed.\n\nIf you do not have a secondary fire button, you can opt to hardwire B1/B2 and not\ninstall the circuit for it.
+Did the Mega Switcher for the Commodore 64 and that works, so the next step was a\nnormal joystick switcher for those games where my Zipstick feels most natural. Added\nan autofire-function in case one is needed.\n\nIf you do not have a secondary fire button, you can opt to hardwire B1/B2 and not\ninstall the circuit for it. Likewise, auto-fire components may also be left out.
 Text Notes 10550 7650 0    60   ~ 0
 B
 NoConn ~ 10200 2725
