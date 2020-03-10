@@ -36,7 +36,7 @@ Most parts should be easy to get a hold of from your favourite local electronic 
 
 | Reference    | Item                                  | Count |
 | ------------ | ------------------------------------- | ----- |
-| PCB          | Fabricate using Gerber files ([order](https://www.pcbway.com/project/shareproject/Commodore_64_Mega_Switcher.html?inviteid=88707))          |     1 |
+| PCB          | Fabricate using Gerber files ([order](https://www.pcbway.com/project/shareproject/Commodore_64_Joystick_Switcher__Revision_C_.html?inviteid=88707))          |     1 |
 | C1-C4        | 100nF capacitor                       |     4 |
 | C5           | 10uF electrolytic capacitor           |    (1)|
 | D1,D2        | 5mm LED                               |     2 |
